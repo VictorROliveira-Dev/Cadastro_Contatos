@@ -1,5 +1,10 @@
 * {
-    font-family: 'Verdana',Fira Code, Cambria
+    font-family: 'Segoe UI',Fira Code, Cambria;
+    font-weight: lighter;
+}
+
+h4 {
+    font-weight: lighter;
 }
 
 .form-group {
